@@ -1,0 +1,19 @@
+---
+name: Linux-Ext2-Attributes
+version: 0.10
+author:
+  - 'Daniel Collins, solemnwarning@solemnwarning.net'
+abstract: Manipulate Linux extended filesystem attributes.
+license: bsd
+configure_requires:
+  Module::Build: 0.340201
+generated_by: Module::Build version 0.340201
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+provides:
+  Linux::Ext2::Attributes:
+    file: lib/Linux/Ext2/Attributes.pm
+    version: 0.10
+resources:
+  license: http://opensource.org/licenses/bsd-license.php

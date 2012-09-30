@@ -1,0 +1,8 @@
+Build.PL
+COPYING
+lib/Linux/Ext2/Attributes.pm
+MANIFEST			This list of files
+MANIFEST.SKIP
+t/01-linux.t
+t/11-attributes.t
+META.yml
