@@ -1,8 +1,8 @@
 Build.PL
-COPYING
+Changes
 lib/Linux/Ext2/Attributes.pm
+lib/Linux/Ext2/Attributes/Constants.pm.PL
 MANIFEST			This list of files
-MANIFEST.SKIP
-t/01-linux.t
-t/11-attributes.t
+META.json
 META.yml
+t/11-attributes.t
